@@ -1,8 +1,13 @@
 ## 👋 About Me
 
+### Hi there, I'm Satyam Sachan
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sam6611&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 <table>
 <tr>
 <td width="50%">
+
 
 - 🎓 B.Tech CSE | 3rd Year   
 - ⚙️ Learning Full Stack Development (React + Backend)  
@@ -14,7 +19,7 @@
 </td>
 
 <td width="50%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="510" alt="Coding GIF" />
 </td>
 
 </tr>
@@ -128,11 +133,3 @@
 
 ---
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sam6611&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=sam6611&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
